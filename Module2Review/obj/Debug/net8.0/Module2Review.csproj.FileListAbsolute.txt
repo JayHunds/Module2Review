@@ -1,0 +1,15 @@
+C:\Users\Jayson\OneDrive\Desktop\repos\Module2Review\Module2Review\bin\Debug\net8.0\Module2Review.exe
+C:\Users\Jayson\OneDrive\Desktop\repos\Module2Review\Module2Review\bin\Debug\net8.0\Module2Review.deps.json
+C:\Users\Jayson\OneDrive\Desktop\repos\Module2Review\Module2Review\bin\Debug\net8.0\Module2Review.runtimeconfig.json
+C:\Users\Jayson\OneDrive\Desktop\repos\Module2Review\Module2Review\bin\Debug\net8.0\Module2Review.dll
+C:\Users\Jayson\OneDrive\Desktop\repos\Module2Review\Module2Review\bin\Debug\net8.0\Module2Review.pdb
+C:\Users\Jayson\OneDrive\Desktop\repos\Module2Review\Module2Review\obj\Debug\net8.0\Module2Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayson\OneDrive\Desktop\repos\Module2Review\Module2Review\obj\Debug\net8.0\Module2Review.AssemblyInfoInputs.cache
+C:\Users\Jayson\OneDrive\Desktop\repos\Module2Review\Module2Review\obj\Debug\net8.0\Module2Review.AssemblyInfo.cs
+C:\Users\Jayson\OneDrive\Desktop\repos\Module2Review\Module2Review\obj\Debug\net8.0\Module2Review.csproj.CoreCompileInputs.cache
+C:\Users\Jayson\OneDrive\Desktop\repos\Module2Review\Module2Review\obj\Debug\net8.0\Module2Review.sourcelink.json
+C:\Users\Jayson\OneDrive\Desktop\repos\Module2Review\Module2Review\obj\Debug\net8.0\Module2Review.dll
+C:\Users\Jayson\OneDrive\Desktop\repos\Module2Review\Module2Review\obj\Debug\net8.0\refint\Module2Review.dll
+C:\Users\Jayson\OneDrive\Desktop\repos\Module2Review\Module2Review\obj\Debug\net8.0\Module2Review.pdb
+C:\Users\Jayson\OneDrive\Desktop\repos\Module2Review\Module2Review\obj\Debug\net8.0\Module2Review.genruntimeconfig.cache
+C:\Users\Jayson\OneDrive\Desktop\repos\Module2Review\Module2Review\obj\Debug\net8.0\ref\Module2Review.dll
